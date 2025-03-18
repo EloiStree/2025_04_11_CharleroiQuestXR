@@ -2,8 +2,8 @@
 
 Dans le contexte de l'utilisation des Quest 3 pour l'industrie numérique, il est essentiel de pouvoir positionner des jeux qui s'intègrent à la réalité mixte.
 
-C'est pourquoi, au cours de ce Nid, je vais vous enseigner cette thématique : **Positionner une réalité mixte**.
-Durant le Nid, nous allons créer un jeu avec **ProBuilder** et **Git** qui se superposera à une table de tennis de table.
+C'est pourquoi, au cours de ce Nid et l'atelier de la formation longue, je vais vous enseigner cette thématique : **Positionner une réalité mixte**.  
+Durant le Nid, nous allons créer un jeu avec **ProBuilder** et **Git** qui se superposera à une table de tennis de table.  
 
 **Pourquoi une table de tennis de table ?**
 - Parce qu'elle possède des dimensions universelles, idéales pour pratiquer la triangulation d'un niveau.
