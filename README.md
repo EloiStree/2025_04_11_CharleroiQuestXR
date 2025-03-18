@@ -20,7 +20,7 @@ Durant le Nid, nous allons créer un jeu avec **ProBuilder** et **Git** qui se s
 **Notre objectif durant cette formation** est de vous préparer à travailler dans l'industrie numérique belge, en particulier dans le domaine de la réalité mixte (AR, VR et MR).  
 Vous ne sortirez pas de cette formation avec toutes les compétences nécessaires pour travailler immédiatement dans l'industrie, car c'est un métier qui demande des années de pratique. Cependant, vous aurez les bases pour vous autoformer et accéder à un poste de **développeur junior** dans une société de création logicielle sous Unity3D.
 
-**La seule vraie différence** entre une personne qui travaille dans l'industrie et une autre qui ne le fait pas est **l'autoformation permanente** et la joie de s'amuser avec le code.  
+**La seule vraie différence** entre une personne qui travaille dans l'industrie et une autre qui ne le fait pas est **l'autoformation permanente** et **la joie de s'amuser avec le code**.  
 Nous sommes jsute là pour vous aider et vous donner de l'élan 🌱 et l'envie.
 
 Cela étant dit, c'est parti pour s'amuser avec les exercices .
