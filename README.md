@@ -25,8 +25,17 @@ _(Nous avons une direction claire pour vous préparer au mieux à l’atelier cl
 
 Vous ne sortirez pas de cette formation avec toutes les compétences nécessaires pour travailler immédiatement dans l'industrie, car c'est un métier qui demande des années de pratique. Cependant, vous aurez les bases pour vous autoformer et accéder à un poste de **développeur junior XR** dans une société de création logicielle sous Unity3D.
 
-**La seule vraie différence** entre une personne qui travaille dans l'industrie et une autre qui ne le fait pas est **l'autoformation permanente** et **la joie de s'amuser avec le code**.  
-Nous sommes juste là pour vous aider et vous donner de l'élan 🌱 et l'envie.
+Les développeurs sont une denrée rare.  
+Les développeurs spécialisés dans le jeu vidéo le sont encore plus.  
+Ceux qui aiment la XR en Belgique ? On peut les compter sur une seule page A4.  
+Et ceux qui sont à la fois passionnés par la XR **et** compétents ? Leur nom tiendrait à l’arrière d’un carton de bière. 😅😁  
+
+### **Les trois seules compétences essentielles** pour travailler dans l'industrie :  
+- **L’autoformation continue**  
+- **Le plaisir de s’amuser avec le code**  
+- **La capacité à travailler en équipe sur une courte durée**  
+
+Nous sommes juste là pour vous aider et vous donner de l'élan 🌱 et la passion du code.
 
 ⚠️🚨 Cette formation est entièrement dédiée à la réalité augmentée sur téléphone et au travail avec la famille des Quest 3.
 
