@@ -30,7 +30,7 @@ Les développeurs spécialisés dans le jeu vidéo le sont encore plus.
 Ceux qui aiment la XR en Belgique ? On peut les compter sur une seule page A4.  
 Et ceux qui sont à la fois passionnés par la XR **et** compétents ? Leur nom tiendrait à l’arrière d’un carton de bière. 😅😁  
 
-### **Les trois seules compétences essentielles** pour travailler dans l'industrie :  
+**Les trois compétences essentielles** pour travailler dans l'industrie :  
 - **L’autoformation continue**  
 - **Le plaisir de s’amuser avec le code**  
 - **La capacité à travailler en équipe sur une courte durée**  
