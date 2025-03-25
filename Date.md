@@ -22,6 +22,7 @@
 **6 juin** : Positionnement en XR  
 **10 juin** : VRTK / MRTK  
 **11 juin** : AR sur le Quest 3  
+
 **27 juin** : Coaching atelier  
 **30 juin** : Coaching atelier  
 
