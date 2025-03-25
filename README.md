@@ -1,4 +1,4 @@
-# Tennis Table XR
+# Charleroi Quest XR
 
 Dans le contexte de l'utilisation des Quest 3 pour l'industrie numérique, il est essentiel de pouvoir positionner des jeux qui s'intègrent à la réalité mixte.
 
