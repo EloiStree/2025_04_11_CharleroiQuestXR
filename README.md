@@ -138,4 +138,11 @@ Je vais vous enseigner mes trucs et astuces pour réussir un **pitch** lors des 
 
 Enfin, je vous laisse entre les mains expertes de Thomas pour les deux derniers jours, où vous ferez les présentations finales de vos projets.
 
-  
+
+----------
+
+Hors formation:
+
+22-23 mai à Technocité Mons: Formation sur le Level Design en XR
+17-18 juillet à Technocité Mons: Formation initation développeur au Quest 3 
+
