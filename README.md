@@ -54,7 +54,7 @@ Cela étant dit, c'est parti pour s'amuser avec les exercices .
 2. **C'est quoi ProBuilder ?**  
 3. **C'est quoi Touch et Gaze en XR ?**  
 4. **Comment déposer des scripts C# pour trianguler notre jeu ?**  
-5. **Comment publier notre niveau sur le Quest 3 ?**  
+5. **Comment publier notre niveau sur Itch.io et SideQuest ?**  
 
 ------------
 
