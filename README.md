@@ -30,12 +30,14 @@ Les développeurs spécialisés dans le jeu vidéo le sont encore plus.
 Ceux qui aiment la XR en Belgique ? On peut les compter sur une seule page A4.  
 Et ceux qui sont à la fois passionnés par la XR **et** compétents ? Leur nom tiendrait à l’arrière d’un carton de bière. 😅😁  
 
-**Les trois compétences essentielles** pour travailler dans l'industrie :  
+### **Les trois compétences essentielles** pour travailler dans l'industrie :  
+(*Hormis le fait d’exister, vu la pénurie…*)  
+
 - **L’autoformation continue**  
 - **Le plaisir de s’amuser avec le code**  
-- **La capacité à travailler en équipe sur une courte durée**  
+- **La capacité à travailler en équipe, même sur de courtes périodes**  
 
-Nous sommes juste là pour vous aider et vous donner de l'élan 🌱 et la passion du code.
+Nous sommes juste là pour vous aider et vous donner de l'élan 🌱 avec la passion du code qui vient avec.
 
 ⚠️🚨 Cette formation est entièrement dédiée à la réalité augmentée sur téléphone et au travail avec la famille des Quest 3.
 
