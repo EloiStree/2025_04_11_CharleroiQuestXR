@@ -61,6 +61,9 @@ Cela étant dit, c'est parti pour s'amuser avec les exercices .
 # Formation Longue
 
 **Semaine de C# :**  
+
+Pour ne pas trébucher dans Unity3D par la suite de la formation,  il est essentiel de comprendre C#, je vais donc vous apprendre les base de l'orianté object à travers le jeux World of Warcraft.
+
 1. **C'est quoi C# et les classes ?** (Allons tuer Hogger !)  
 2. **C'est quoi un String et des char[] ?** (Créons vos premières macros)  
 3. **C'est quoi les Inputs du Quest 3 ?** (Bougeons avec le Quest 3)  
@@ -71,7 +74,11 @@ Cela étant dit, c'est parti pour s'amuser avec les exercices .
 
 Vous avez vu du C# pur dans Visual Studio, ça donne quoi dans Unity ?  
 
-**Semaine Android :**  
+**Eloi:Semaine Android :**  
+
+Un Quest 3, ce n’est rien d’autre qu’un téléphone 📱 boosté avec du hardware 🤖.
+Allons donc jeter un coup d'œil à la création d’un jeu Android !
+
 - **C'est quoi Android sous Unity3D ?**  
 - **C'est quoi Builder et Debugger avec le Profiler ?**  
 - **Allons coder un jeu pour le plaisir de pratiquer.**  
@@ -82,7 +89,11 @@ Vous savez publier un APK sur Itch.io :), allons voir du côté de l'AR avec Vuf
 Et tant qu'à explorer l'AR sur téléphone… ça donne quoi la VR sur le Quest 3 ?  
 Allons explorer OpenXR 🤗🌱 et l'XR Toolkit !  
 
-**Semaine de XR :**  
+**Eloi:Semaine de XR :**  
+
+Vous avez pu expérimenter les Quest 3 de manière standardisée, en OpenXR, dans un jeu dit VR.
+Essayons maintenant de découvrir l’AR native de Meta, le positionnement d’objets avec "Blocks", ainsi que l'utilisation du passthrough et des caméras.
+
 - **C'est quoi les Blocks de Meta ?**  
 - **Comment trianguler et positionner des objets en AR avec un Quest 3 ?**  
 - **Il n’y aurait pas des outils prêts à être utilisés : XRTK, MRTK… ?**  
@@ -106,7 +117,7 @@ Nous serons comme un moteur électrique sur un vélo : c'est vous qui pédalez, 
 
 Les deux dernières semaines, vous serez avec moi pour rester pleinement concentrés sur la **deadline** du projet et les objectifs du client.
 
-**Deux semaines de fin d'atelier :**  
+**Eloi: Deux semaines de fin d'atelier :**  
 Pas de grand planning ici ^^.  
 Il vous/nous reste deux semaines pour finaliser le projet client que vous avez commencé avec Arnaud.  
 Je serai présent pour vous guider et vous aider à le terminer dans les temps.  
