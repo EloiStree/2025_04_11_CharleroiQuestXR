@@ -19,7 +19,7 @@ Durant le Nid, nous allons créer un jeu avec **ProBuilder** et **Git** qui se s
 
 Cette formation est dispensée en binôme avec notre toujours souriant et ultra-professionnel Arnaud Jopart 😁, un véritable magicien 🧙‍♂️.
 
-__(Nous avons une direction claire pour vous préparer au mieux à l’atelier client et à la fin de la formation. Cependant, je ne détaille pas les cours d’Arnaud, afin de lui laisser toute liberté dans leur structure.)__
+_(Nous avons une direction claire pour vous préparer au mieux à l’atelier client et à la fin de la formation. Cependant, je ne détaille pas les cours d’Arnaud, afin de lui laisser toute liberté dans leur structure.)_
 
 **Notre objectif durant cette formation** est de vous préparer à travailler dans l'industrie numérique belge, en particulier dans le domaine de la réalité mixte (AR, VR et MR) téléphone Android et/ou Quest3.  
 
