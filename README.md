@@ -39,9 +39,7 @@ Et ceux qui sont à la fois passionnés par la XR **et** compétents ? Leur nom 
 
 Nous sommes juste là pour vous aider et vous donner de l'élan 🌱 avec la passion du code qui vient avec.
 
-> ⚠️🚨 Cette formation est entièrement dédiée à la réalité augmentée sur téléphone et au travail avec la famille des Quest 3.
-
-> Si ces sujets ne vous intéressent pas, mieux vaut ne pas vous inscrire ! Vous passerez deux mois intensifs à explorer ces thématiques. (^^') 🚨⚠️
+> ⚠️🚨 Cette formation est entièrement dédiée à la réalité augmentée sur téléphone et au travail avec la famille des Quest 3. Si ces sujets ne vous intéressent pas, mieux vaut ne pas vous inscrire ! Vous passerez deux mois intensifs à explorer ces thématiques. (^^') 🚨⚠️
 
 Cela étant dit, c'est parti pour s'amuser avec les exercices .
 
