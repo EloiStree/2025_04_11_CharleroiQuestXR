@@ -64,15 +64,16 @@ Cela étant dit, c'est parti pour s'amuser avec les exercices .
 
 Pour ne pas trébucher dans Unity3D par la suite de la formation,  il est essentiel de comprendre C#, je vais donc vous apprendre les base de l'orianté object à travers le jeux World of Warcraft.
 
-1. **C'est quoi C# et les classes ?** 
-   - (Allons tuer Hogger !)
-3. **C'est quoi un String et des char[] ?**
-   - (Créons vos premières macros)  
-4. **C'est quoi les Inputs du Quest 3 ?**
-   - (Bougeons avec le Quest 3)  
-5. **C'est quoi les Vector3 et les angles d'Euler (hors Unity3D) ?**
-   - (Déclenchons des macros avec les distances)  
-6. **Direction les Mortes Mines en XR !**  
+1. **C'est quoi C# et les classes ?**  
+   - Allons tuer Hogger !  
+2. **C'est quoi un String et des char[] ?**  
+   - Créons vos premières macros  
+3. **C'est quoi les Inputs du Quest 3 ?**  
+   - Bougeons avec le Quest 3  
+4. **Révision des mots-clés C# à maîtriser pour les cours avec Arnaud**  
+   - Découvrons la longue liste de sujets à apprendre 😅  
+   - Mais surtout, maîtrisons ceux qui sont essentiels pour que vous puissiez vous amuser avec Arnaud.  
+5. **Direction les Mortes Mines en XR !**  
 
 **Arnaud : C# dans Unity3D ?**  
 
