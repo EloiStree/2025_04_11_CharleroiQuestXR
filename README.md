@@ -1,5 +1,19 @@
-# Charleroi Quest XR
+Découverte du métier de développeur en technologies immersives XR   
+https://technocite.be/formations/decouverte-du-metier-de-developpeur-en-technologies-immersives-xr  
 
+Développeur en technologies immersives XR  
+https://technocite.be/formations/developpeur-en-technologies-immersives-xr  
+
+Découverte du métier de graphiste en technologies immersives XR  
+https://technocite.be/formations/decouverte-du-metier-de-graphiste-3d-en-technologies-immersives-xr  
+
+Graphiste en technologies immersives XR  
+https://technocite.be/formations/graphiste-3d-en-technologies-immersives-xr  
+
+-------------------
+
+# Charleroi Quest XR
+ 
 Dans le contexte de l'utilisation des Quest 3 pour l'industrie numérique, il est essentiel de pouvoir positionner des jeux qui s'intègrent à la réalité mixte.
 
 C'est pourquoi, au cours de ce Nid, je vais vous enseigner cette thématique : **Positionner une réalité mixte**.  
