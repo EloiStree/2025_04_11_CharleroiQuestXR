@@ -97,6 +97,8 @@ Link:
   - https://github.com/EloiStree/2023_11_01_KidToyCarSkidSteeringCode  
 - Tello Drone
   - https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode
+- RC Remote:
+  - https://github.com/EloiStree/2024_09_15_IToyControllerRC.git
 
 --------------
 
