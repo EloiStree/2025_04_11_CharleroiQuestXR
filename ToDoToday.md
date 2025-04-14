@@ -21,15 +21,20 @@ Bonus: Wifi ADB :
 Packages: 
 - Some Code Color:
   - https://github.com/EloiStree/2024_10_16_BlocksColor.git
-- Drone: 
-  - https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode.git
-  - https://github.com/EloiStree/2024_09_15_IToyControllerRC.git
+- Drawable:
+  - https://github.com/EloiStree/2024_08_05_UvDrawableDrones.git 
 - Wheel Ship:
   - https://github.com/EloiStree/2025_04_14_WheelShipForFun.git
      
 Note et liens
 - Side store with some ADB/SCR tool
  - https://sidequestvr.com
+
+Video:
+- Demo en 2024 https://youtu.be/IxvZVqaTvDs?t=5
+- SVG>Blender>Unity :
+  - https://youtu.be/T_xwqNU7708?t=9
+    - Une auter manière: https://youtu.be/iiPiuBDbvDg?t=5512 
 
 -----------
 
@@ -87,6 +92,12 @@ Objectif:
 Link: 
 - https://github.com/EloiStree/OpenUPM_TickCollection
 
+- Skid Car:
+  - https://youtu.be/2HvVTUClKso?t=3297
+  - https://github.com/EloiStree/2023_11_01_KidToyCarSkidSteeringCode  
+- Tello Drone
+  - https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode
+
 --------------
 
 
@@ -128,3 +139,10 @@ Workshop:
 eLabRC:
 - https://github.com/EloiStree/eLabRC_AllPackages
 - https://github.com/EloiStree/eLabRC_ToysInGame
+
+
+---
+
+## Nice
+- Make fast drone: https://www.youtube.com/watch?v=V6BF-0fg1J8
+  - L'utiliser dans Sharp Them All: https://www.youtube.com/watch?v=RMhXeHfibh4
