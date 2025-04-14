@@ -1,5 +1,6 @@
 
-2025-04-15
+## 2025-04-15: Hello Meshes
+
 Objectif: 
 - [x] C'est quoi ProBuilder ?
   - [ ] C'est quoi un triangle ?
@@ -27,13 +28,65 @@ Note et liens
 - Side store with some ADB/SCR tool
  - https://sidequestvr.com
 
-2025-04-14:
+
+---------------
+
+## 2025_04_18: Triangulation
+
+Objectif: 
+- [ ] C'est quoi un guardian ?
+- [ ] Math et rotation dans l'idée
+- [ ] Trois points pour trianguler
+- [ ] Des marques au sol pour charger un niveau
+- [ ] Créons un niveau avec les toutes les îles
+- [ ] Publions le niveau sur Itch.io
+
+
+
+
+## 2025_04_17: Git Good !
+
+Objectif:
+- [ ] C'est quoi Git ?
+- [ ] Add, Commit, PUll, Push
+  - [ ] d'un ReadMe.
+  - [ ] d'un package.json
+  - [ ] d'un assembly
+- [ ] Partager votre îles avec vos voisins
+- [ ] Utiliser les îles de vos voisins pour faire un niveau.
+
+Note: Pas d'asset de l'asset store, que du ProBuilder et du code personnel.
+
+Link:
+- https://github.com/EloiStree/HelloUnityPackage
+- https://github.com/EloiStree/HelloGitForUnity3D
+
+## 2025_04_16: C#
+
+Objectif: 
+- [ ] [Let's learn about the lifecycle](https://www.google.com/search?q=unity3D+MonoBehaviour+life+cycle)
+  - [ ] Essayons le package Tick Mono
+- [ ] C'est quoi une rotation ?
+- [ ] C'est quoi une translation ?
+- [ ] C'est quoi un InputActionReference ?
+- [ ] Un peu de C# pour faire bouger tout ça.
+- [ ] Bonus: NTP et Outer Wild 1970
+
+Link: 
+- https://github.com/EloiStree/OpenUPM_TickCollection
+
+--------------
+
+
+
+## 2025-04-14: Hello Unity3D
+
 Objectif: 
 - Début de formation.
 - C'est quoi Unity3d ?
 - C'est quoi un Casque XR ?
-- Créons un Cube
-- Créons un matérial pour la couleur du cube
+- Créons un Cube.
+- Créons un matérial pour la couleur du cube.
 - Créons un APK sur Quest3 avec un Cube ;)
 
 Links:
@@ -44,10 +97,6 @@ Links:
 - Meta Asset store for Unity3D
   - https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657?srsltid=AfmBOopToo5ipaQyC3WJcWHQWtTupHT5IC6um4hd6TjYSwHTiA9cmtNy
  
-
-
-
-
 
 
 
