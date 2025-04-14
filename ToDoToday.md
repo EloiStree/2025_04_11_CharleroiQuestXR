@@ -21,6 +21,7 @@ Bonus: Wifi ADB :
 Packages: 
 - Some Code Color:
   - https://github.com/EloiStree/2024_10_16_BlocksColor.git
+  - https://github.com/EloiStree/2024_03_11_eToolbox_ColorDrop
 - Drawable:
   - https://github.com/EloiStree/2024_08_05_UvDrawableDrones.git 
 - Wheel Ship:
