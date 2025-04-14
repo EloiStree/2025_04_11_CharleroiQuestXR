@@ -49,9 +49,10 @@ Objectif:
 
 Packages:
 - https://github.com/EloiStree/2025_03_19_TableTennisRef
-- https://github.com/EloiStree/2024_09_25_StartPackQuai1666
-  - https://github.com/EloiStree/2024_09_25_Charleroi1666
-  - https://github.com/EloiStree/2024_09_22_Quai10Mesh
+- Note
+  - https://github.com/EloiStree/2024_09_25_StartPackQuai1666
+    - https://github.com/EloiStree/2024_09_25_Charleroi1666
+    - https://github.com/EloiStree/2024_09_22_Quai10Mesh
 
 
 
