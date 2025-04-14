@@ -17,13 +17,8 @@ https://technocite.be/formations/graphiste-3d-en-technologies-immersives-xr
 Dans le contexte de l'utilisation des Quest 3 pour l'industrie numérique, il est essentiel de pouvoir positionner des jeux qui s'intègrent à la réalité mixte.
 
 C'est pourquoi, au cours de ce Nid, je vais vous enseigner cette thématique : **Positionner une réalité mixte**.  
-Durant le Nid, nous allons créer un jeu avec **ProBuilder** et **Git** qui se superposera à une table de tennis de table.  
+Durant le Nid, nous allons créer un jeu avec **ProBuilder** et **Git** qui se superposera à une pièce
 
-**Pourquoi une table de tennis de table ?**
-- Parce qu'elle possède des dimensions universelles, idéales pour pratiquer la triangulation d'un niveau.
-- Parce que sa forme est compatible avec des logiciels comme **Vuforia**, que nous utiliserons avec votre téléphone et le Quest.
-- Parce que cela nous permettra de pratiquer l'utilisation de Git et le respect des conventions.
-- ... Et parce que je fais partie d'un club de tennis de table 😅 et que je dois bien m'amuser en rédigeant cet atelier 😁.
 
 **Durant la formation longue, vous me verrez à quatre reprises :**
 - **La première semaine** : Nous aborderons le **C# pur**, avec une petite un pincée de réalité virtuelle sans utiliser Unity3D.
@@ -64,9 +59,9 @@ Cela étant dit, c'est parti pour s'amuser avec les exercices .
 **Semaine du Nid :**  
 1. **C'est quoi Unity3D et le Quest 3 ?**  
 2. **C'est quoi ProBuilder ?**  
-3. **C'est quoi Touch et Gaze en XR ?**  
-4. **Comment déposer des scripts C# pour trianguler notre jeu ?**  
-5. **Comment publier notre niveau sur Itch.io et SideQuest ?**  
+3. **Un peu de C# pour le fun ?**  
+4. **C'est quoi git et le prefab ?**  
+5. **Triangulons un niveau sur une pièce ?**  
 
 ------------
 
