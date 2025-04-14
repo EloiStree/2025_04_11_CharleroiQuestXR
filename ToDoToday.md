@@ -127,3 +127,4 @@ Workshop:
 
 eLabRC:
 - https://github.com/EloiStree/eLabRC_AllPackages
+- https://github.com/EloiStree/eLabRC_ToysInGame
