@@ -109,4 +109,8 @@ Links:
 
 Down Note:
 
-https://github.com/EloiStree/2024_07_03_HelloMonsXR
+- https://github.com/EloiStree/2024_07_03_HelloMonsXR
+  - https://github.com/EloiStree/2024_07_03_HelloMonsXR/edit/main/CoolXR.md
+- https://github.com/EloiStree/2024_07_19_CharleroiXR 
+- https://github.com/EloiStree/HelloSharpForUnity3D
+- https://github.com/EloiStree/HelloUnityKeywordForJunior
