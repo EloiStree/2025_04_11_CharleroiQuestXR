@@ -2,6 +2,7 @@
 ## 2025-04-15: Hello Meshes
 
 Objectif: 
+- [ ] For Fun WheelShip.
 - [x] C'est quoi ProBuilder ?
   - [ ] C'est quoi un triangle ?
   - [ ] C'est quoi un mesh ?
@@ -19,10 +20,12 @@ Bonus: Wifi ADB :
 
 Packages: 
 - Some Code Color:
-  - https://github.com/EloiStree/2024_10_16_BlocksColor
+  - https://github.com/EloiStree/2024_10_16_BlocksColor.git
 - Drone: 
-  - https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode
-  - https://github.com/EloiStree/2024_09_15_IToyControllerRC
+  - https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode.git
+  - https://github.com/EloiStree/2024_09_15_IToyControllerRC.git
+- Wheel Ship:
+  - https://github.com/EloiStree/2025_04_14_WheelShipForFun.git
      
 Note et liens
 - Side store with some ADB/SCR tool
