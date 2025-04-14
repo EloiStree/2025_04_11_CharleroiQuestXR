@@ -82,12 +82,12 @@ Link:
 ## 2025-04-14: Hello Unity3D
 
 Objectif: 
-- Début de formation.
-- C'est quoi Unity3d ?
-- C'est quoi un Casque XR ?
-- Créons un Cube.
-- Créons un matérial pour la couleur du cube.
-- Créons un APK sur Quest3 avec un Cube ;)
+- [ ] Début de formation.
+- [ ] C'est quoi Unity3d ?
+- [ ] C'est quoi un Casque XR ?
+- [ ] Créons un Cube.
+- [ ] Créons un matérial pour la couleur du cube.
+- [ ] Créons un APK sur Quest3 avec un Cube ;)
 
 Links:
 - View phone and Quest 4 screen
