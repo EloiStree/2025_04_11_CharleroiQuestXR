@@ -21,9 +21,9 @@ Le joueur, à bord d’une **soucoupe volante** contrôlable via les joysticks, 
 
 ### Objectifs secondaires :
 
-Context
-[![image](https://github.com/user-attachments/assets/e4e34baa-604c-4402-b8e7-4171f2ad1577)](https://youtu.be/h-BiwT9ADoY?t=3)
-https://youtu.be/h-BiwT9ADoY?t=3
+Context:  
+[![image](https://github.com/user-attachments/assets/e4e34baa-604c-4402-b8e7-4171f2ad1577)](https://youtu.be/h-BiwT9ADoY?t=3)  
+https://youtu.be/h-BiwT9ADoY?t=3  
 
 - Ajouter une **porte des étoiles** : il faudra trouver les symboles répartis sur les îles pour l’ouvrir.
 - Associer **une couleur spécifique à chaque poussin** au moment de l’abduction.
