@@ -1,12 +1,12 @@
 ## Objectif de la semaine
 
-Proposition d’exercice : l’abduction de poussins dans l’étage de Technocité, sur des îles flottantes.
+**Proposition d’exercice**: l’abduction de poussins dans l’étage de Technocité, sur des îles flottantes.
 
 Le but pendant la session du **Nid** est de rendre le jeu jouable avec un placement manuel.  
 Mais à terme, dans le cadre de la **formation longue**, l’objectif sera d’utiliser **Vuforia** sur **Quest 3** pour un placement basé sur l’image.
 
 ### Tâche collective :
-Créer un niveau en groupe à l’aide de **ProBuilder**, prenant place dans tout l’étage de Technocité.
+Créer un niveau en groupe à l’aide de **ProBuilder** et **Git**, prenant place dans tout l’étage de Technocité.
 
 ### Chaque étudiant devra réaliser :
 - Une île flottante  
