@@ -1,3 +1,33 @@
+## Objectif de la semaine
+
+Proposition d’exercice : l’abduction de poussins dans l’étage de Technocité, sur des îles flottantes.
+
+Le but pendant la session du **Nid** est de rendre le jeu jouable avec un placement manuel.  
+Mais à terme, dans le cadre de la **formation longue**, l’objectif sera d’utiliser **Vuforia** sur **Quest 3** pour un placement basé sur l’image.
+
+### Tâche collective :
+Créer un niveau en groupe à l’aide de **ProBuilder**, prenant place dans tout l’étage de Technocité.
+
+### Chaque étudiant devra réaliser :
+- Une île flottante  
+- Une île murale  
+- Deux petites roches volantes
+
+Cela nous donnera donc **20 à 24 îles** au total pour composer un niveau collaboratif, à assembler ensemble sur **Git jeudi**.
+
+Les artistes nous fourniront des **poussins** que nous devrons **dissimuler dans le décor**, à la manière d’un petit jeu d’exploration façon “Jeu à patoune”.
+
+Le joueur, à bord d’une **soucoupe volante** contrôlable via les joysticks, pourra se déplacer selon sa position et **abducter les poussins**.
+
+### Objectifs secondaires :
+- Ajouter une **porte des étoiles** : il faudra trouver les symboles répartis sur les îles pour l’ouvrir.
+- Associer **une couleur spécifique à chaque poussin** au moment de l’abduction.
+- Rendre le jeu **jouable en multijoueur**, avec la mise en place d’un **lobby complet**.
+
+
+
+
+
 
 ## 2025-04-15: Hello Meshes
 
