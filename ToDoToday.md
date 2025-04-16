@@ -32,45 +32,35 @@ https://youtu.be/h-BiwT9ADoY?t=3
 
 
 
-
-
-## 2025-04-15: Hello Meshes
+## 2025_04_16: C#
 
 Objectif: 
-- [ ] For Fun WheelShip.
-- [x] C'est quoi ProBuilder ?
-  - [ ] C'est quoi un triangle ?
-  - [ ] C'est quoi un mesh ?
-  - [ ] C'est quoi un mesh avec plusieurs matériel ?
-  - [ ] C'est quoi un prefab ?
-  - [ ] C'est quoi un nested prefab ?
-  - [ ] Ajoutons des boites
-    - [ ] C'est quoi un texture ?
-    - [ ] C'est quoi un atlas ?
-  - [ ] Déponsons un Drone à piloter
+- [ ] [Let's learn about the lifecycle](https://www.google.com/search?q=unity3D+MonoBehaviour+life+cycle)
+  - [ ] Essayons le package Tick Mono
+- [ ] C'est quoi une rotation ?
+- [ ] C'est quoi une translation ?
+- [ ] C'est quoi un InputActionReference ?
+- [ ] Un peu de C# pour faire bouger tout ça.
+- [ ] Bonus: NTP et Outer Wild 1970
 
-Bonus: Wifi ADB :
-- Python code to manage ADB:
-  - https://github.com/EloiStree/2025_01_12_BuildAndRunApkBroadcast.git
+Link: 
+- OVNI: https://github.com/EloiStree/2025_04_15_KidToyOvniCode
+  - Avant Maude: https://github.com/EloiStree/2025_04_14_WheelShipForFun 
+- Tick: https://github.com/EloiStree/OpenUPM_TickCollection
+- Patoune: https://github.com/EloiStree/2024_10_02_PatouneRace
+- Controller: https://github.com/EloiStree/2024_09_15_IToyControllerRC
 
-Packages: 
-- Some Code Color:
-  - https://github.com/EloiStree/2024_10_16_BlocksColor.git
-  - https://github.com/EloiStree/2024_03_11_eToolbox_ColorDrop
-- Drawable:
-  - https://github.com/EloiStree/2024_08_05_UvDrawableDrones.git 
-- Wheel Ship:
-  - https://github.com/EloiStree/2025_04_14_WheelShipForFun.git
-     
-Note et liens
-- Side store with some ADB/SCR tool
- - https://sidequestvr.com
 
-Video:
-- Demo en 2024 https://youtu.be/IxvZVqaTvDs?t=5
-- SVG>Blender>Unity :
-  - https://youtu.be/T_xwqNU7708?t=9
-    - Une auter manière: https://youtu.be/iiPiuBDbvDg?t=5512 
+Additional
+- Skid Car:
+  - https://youtu.be/2HvVTUClKso?t=3297
+  - https://github.com/EloiStree/2023_11_01_KidToyCarSkidSteeringCode  
+- Tello Drone
+  - https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode
+- RC Remote:
+  - https://github.com/EloiStree/2024_09_15_IToyControllerRC.git
+ 
+
 
 -----------
 
@@ -114,31 +104,51 @@ Link:
 - https://github.com/EloiStree/HelloUnityPackage
 - https://github.com/EloiStree/HelloGitForUnity3D
 
-## 2025_04_16: C#
-
-Objectif: 
-- [ ] [Let's learn about the lifecycle](https://www.google.com/search?q=unity3D+MonoBehaviour+life+cycle)
-  - [ ] Essayons le package Tick Mono
-- [ ] C'est quoi une rotation ?
-- [ ] C'est quoi une translation ?
-- [ ] C'est quoi un InputActionReference ?
-- [ ] Un peu de C# pour faire bouger tout ça.
-- [ ] Bonus: NTP et Outer Wild 1970
-
-Link: 
-- https://github.com/EloiStree/OpenUPM_TickCollection
-
-- Skid Car:
-  - https://youtu.be/2HvVTUClKso?t=3297
-  - https://github.com/EloiStree/2023_11_01_KidToyCarSkidSteeringCode  
-- Tello Drone
-  - https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode
-- RC Remote:
-  - https://github.com/EloiStree/2024_09_15_IToyControllerRC.git
 
 --------------
 
 
+
+## 2025-04-15: Hello Meshes
+
+Objectif: 
+- [ ] For Fun WheelShip.
+- [x] C'est quoi ProBuilder ?
+  - [ ] C'est quoi un triangle ?
+  - [ ] C'est quoi un mesh ?
+  - [ ] C'est quoi un mesh avec plusieurs matériel ?
+  - [ ] C'est quoi un prefab ?
+  - [ ] C'est quoi un nested prefab ?
+  - [ ] Ajoutons des boites
+    - [ ] C'est quoi un texture ?
+    - [ ] C'est quoi un atlas ?
+  - [ ] Déponsons un Drone à piloter
+
+Bonus: Wifi ADB :
+- Python code to manage ADB:
+  - https://github.com/EloiStree/2025_01_12_BuildAndRunApkBroadcast.git
+
+Packages: 
+- Some Code Color:
+  - https://github.com/EloiStree/2024_10_16_BlocksColor.git
+  - https://github.com/EloiStree/2024_03_11_eToolbox_ColorDrop
+- Drawable:
+  - https://github.com/EloiStree/2024_08_05_UvDrawableDrones.git 
+- Wheel Ship:
+  - https://github.com/EloiStree/2025_04_14_WheelShipForFun.git
+     
+Note et liens
+- Side store with some ADB/SCR tool
+ - https://sidequestvr.com
+
+Video:
+- Demo en 2024 https://youtu.be/IxvZVqaTvDs?t=5
+- SVG>Blender>Unity :
+  - https://youtu.be/T_xwqNU7708?t=9
+    - Une auter manière: https://youtu.be/iiPiuBDbvDg?t=5512 
+
+
+---------------
 
 ## 2025-04-14: Hello Unity3D
 
