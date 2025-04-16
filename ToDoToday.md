@@ -105,6 +105,12 @@ Link:
 - https://github.com/EloiStree/HelloGitForUnity3D
 
 
+Old:
+https://github.com/EloiStree/2024_07_16_MonsXrDesign
+https://github.com/EloiStree/2024_07_16_MonsXrDesign/blob/main/2024_07_16.md
+https://github.com/EloiStree/2024_07_16_MonsXrDesign/blob/main/2024_07_17.md
+https://github.com/EloiStree/2024_07_16_MonsXrDesignGroupFork
+
 --------------
 
 
