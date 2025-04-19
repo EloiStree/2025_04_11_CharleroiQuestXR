@@ -17,6 +17,7 @@
 
 **22 mai** : Technocité Mons XR Design – On joue aux classiques  
 **23 mai** : Technocité Mons XR Design – Hello Meta XR sur Unity3D, drag and drop  
+**30 mai-1 juin** : https://inno4def.be/both2/
 
 **5 juin** : Meta SDK  
 **6 juin** : Positionnement en XR  
