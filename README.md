@@ -12,6 +12,7 @@ Nous avons des Quests, du café ☕… C’est parti pour une aventure !
 
 ![image](https://github.com/user-attachments/assets/e11f2831-f286-4974-89e0-8fe043237992)  
 
+[Checklist d'avancement de l'aventure >](ChecklistStepByStep.md)
 ---
 
 Mon but durant cette formation est de vous accompagner, car je serai là tout du long sur un sujet qui me passionne.  
