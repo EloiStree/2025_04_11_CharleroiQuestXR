@@ -4,10 +4,9 @@
 
 Essayons ensemble d’apprendre à coder une application en XR !  
 
-Durant les deux prochains mois, je serai votre coach. Le défi est présent, mais pas à pas, nous allons passer d’un cube à une réalité augmentée.  
-
-L’atelier est de taille, car il est composé de tous les apprenants. 
-Ce qui me fait chaud au cœur, car nous allons pouvoir pratiquer en groupe 🤗.  
+Durant les deux prochains mois, je serai votre coach. Le défi est présent, mais pas à pas, nous allons passer d’un cube à une réalité augmentée.    
+L’atelier est de taille, car il est composé de tous les apprenants.   
+Ce qui me fait chaud au cœur, car nous allons pouvoir pratiquer en groupe 🤗.    
 
 Nous avons des Quests, du café ☕… C’est parti pour une aventure !  
 
