@@ -10,8 +10,7 @@ Ce qui me fait chaud au cœur, car nous allons pouvoir pratiquer en groupe 🤗.
 
 Nous avons des Quests, du café ☕… C’est parti pour une aventure !  
 
-![image](https://github.com/user-attachments/assets/e11f2831-f286-4974-89e0-8fe043237992)  
-
+[![image](https://github.com/user-attachments/assets/e11f2831-f286-4974-89e0-8fe043237992)](https://github.com/EloiStree/2025_04_11_CharleroiQuestXR/blob/main/ChecklistStepByStep.md)
 [Checklist d'avancement de l'aventure >](ChecklistStepByStep.md)
 ---
 
