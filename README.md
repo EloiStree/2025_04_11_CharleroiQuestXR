@@ -23,8 +23,7 @@ Que le code soit avec vous 🥽 !
 
 -----------------------
 
-[Développeur en technologies immersives XR](https://technocite.be/formations/developpeur-en-technologies-immersives-xr) ([NID](https://technocite.be/formations/decouverte-du-metier-de-developpeur-en-technologies-immersives-xr))   
-- [Graphiste en technologies immersives XR](https://technocite.be/formations/graphiste-3d-en-technologies-immersives-xr) ([NID](https://technocite.be/formations/decouverte-du-metier-de-graphiste-3d-en-technologies-immersives-xr)) 
+[Développeur en technologies immersives XR](https://technocite.be/formations/developpeur-en-technologies-immersives-xr) ([NID](https://technocite.be/formations/decouverte-du-metier-de-developpeur-en-technologies-immersives-xr)) - [Graphiste en technologies immersives XR](https://technocite.be/formations/graphiste-3d-en-technologies-immersives-xr) ([NID](https://technocite.be/formations/decouverte-du-metier-de-graphiste-3d-en-technologies-immersives-xr)) 
 
 -------------------
 
