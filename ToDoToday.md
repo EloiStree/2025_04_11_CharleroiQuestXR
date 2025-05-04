@@ -1,0 +1,4 @@
+- https://docs.google.com/spreadsheets/d/15BQ1OqLn9omeHH6yPuqSO0Ip6XeQ0CktMDebbJCkarU/edit?gid=111671064#gid=111671064
+- Exercice C# Wow Level Up:
+  - https://github.com/EloiStree/2025_02_03_MonsLevelUpInGroup
+- Char in C# https://github.com/EloiStree/HelloSharpForUnity3D/issues/557
