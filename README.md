@@ -13,8 +13,8 @@
 - Server: [https://github.com/EloiStree/2024_08_29_ScratchToWarcraft](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft)
 
 
-**De python a du C# sur Wow, step by step**:
-https://youtu.be/qxmC8YoRqHY?t=1
+**De python a du C# sur Wow, step by step**:  
+https://youtu.be/qxmC8YoRqHY?t=1  
 
 
 
