@@ -1,4 +1,26 @@
 
+# Cette semaine
+
+- ✅ [Checklist : Python, C#, Git](https://docs.google.com/spreadsheets/d/15BQ1OqLn9omeHH6yPuqSO0Ip6XeQ0CktMDebbJCkarU/edit?usp=sharing)  
+- 🆂🅲🅳🅴🅵 **Tier List C#** : [https://miro.com/app/board/uXjVKwisc_4=/](https://miro.com/app/board/uXjVKwisc_4=/)  
+
+**Apprend à cleaner des bots:**  
+- [Context de Clean The Bots 📼](https://www.youtube.com/watch?v=F4Xb_WRpJaE)  
+- [CleanTheBots](https://cleanthebots.com/)  
+
+**Code à utiliser:** 
+- Client: [https://github.com/EloiStree/2025_02_05_WarcraftClientQA](https://github.com/EloiStree/2025_02_05_WarcraftClientQA)
+- Server: [https://github.com/EloiStree/2024_08_29_ScratchToWarcraft](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft)
+
+
+**De python a du C# sur Wow, step by step**:
+https://youtu.be/qxmC8YoRqHY?t=1
+
+
+
+
+
+===============================
 
 **Salut à vous 😁🧙‍♂️ !**  
 
