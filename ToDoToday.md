@@ -1,60 +1,48 @@
 
-Vous venez apprendre ce qu’est C# et, un peu, ce qu’est Unity3D.
-Nous allons créer une petite application et un petit jeu Android pour vous préparer à Vuforia et à la réalité augmentée (AR) sur mobile.
-Cela nous mènera ensuite au Quest 3 via OpenXR et la librairie Meta XR, avec ses caméras.
+# Meta SDK
 
-Cela nous permettra, avec le client, de réaliser une application qui utilise la boîte à outils XRTK dans un bâtiment, pour afficher des assets produits par les artistes et les intégrer dans un scénario.
+## Matin – C’est quoi le Meta Blocks SDK ?
 
----
+Aujourd’hui, nous allons nous familiariser avec le Meta Blocks SDK.
+Le cours sera ajusté en fonction de ce que vous avez déjà vu avec Arnaud sur OpenXR.
 
-### Ce que nous allons voir durant ces trois jours :
+### Étapes :
 
-#### **Vendredi : Créer un Stream Deck sur Android**
+* Installer **Meta Blocks**
+* Ajouter les blocs suivants :
 
-* Contrôler depuis votre téléphone des logiciels et des prises électriques grâce à Python et à l’UDP.
+  * Le bloc pour le **passthrough**
+  * Le bloc pour les **mains**
+  * Le bloc pour les **manettes**
+  * Le bloc pour les **espaces scannés**
+  * Le bloc pour le **mesh 3D**
 
-#### **Lundi : Créer un simple jeu Android avec un OVNI**
+## Midi – Créons notre ChTK (Charleroi Toolkit)
 
-* Pas de VR, pas d’AR.
-* Utilisation des assets des artistes, en vue d’apprendre à optimiser un jeu, même de manière basique.
+**"Isoler pour mieux régner."**
+Voici une liste de propositions pour créer une boîte à outils qui n’utilise que des **transforms** et des **meshes**.
+**Pas besoin d’OpenXR ni de Meta SDK pour cet exercice.**
 
-#### **Mardi matin : Cours commun**
+### Objectif :
 
-* Introduction au Quest 3, scrcpy et SideQuest.
-* Installation de : Open Brush, XRTK, VRTK et MRTK.
-* Observation de vos collègues en train de tester les environnements.
+Créer entre **7 et 20 boîtes à outils** séparées, puis les rassembler dans un **Charleroi Toolkit**, votre boîte à outils de groupe.
 
-#### **Mardi après-midi : Répartition des rôles**
+Dans la liste suivante, choisissez une idée selon votre niveau. Chaque élève prend un sujet différent.
 
-* **Artistes** : Prendre des mesures et tester les outils de modélisation en XR.
-* **Développeurs** : Utiliser SideQuest et/ou scrcpy pour récupérer les mesures et croquis, à placer dans un Git commun.
-* **Objectif** : Apprendre à travailler en équipe et obtenir les mesures de chaque pièce de l’étage Technocité pour les cours suivants.
+- [ ] Créer un script C# capable de détecter si ce sont les **mains** ou les **manettes** qui sont utilisées.
+- [ ]  Détecter si la main est **plate** et orientée vers la **tête du joueur**.
+- [ ]  Créer une boîte à outils permettant de déclencher des actions quand vos **doigts touchent votre pouce** :
+  - [ ]  Détecter la distance entre deux points pour créer un **pinch**.
+Créer un **curseur contextuel** pour les meshes de la pièce :
+- [ ]  Voir : [Raycast – HelloUnityKeywordForJunior #70](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/70)
+- [ ]  Faire apparaître :
+  - [ ]  des **plantes** sur le plafond
+  - [ ]  des **objets** sur les murs
+  - [ ]  des **meubles** sur le sol
+  - [ ]  des **ustensiles** sur les tables
 
----
 
-### Ensuite :
 
-* **Avec Arnaud** : AR, Vuforia et OpenXR sur Quest 3.
-* **Avec Éloi** : Meta Blocks, triangulation, XRTK, AR.
-
----
-
-### Challenge de formation (si vous l’acceptez) :
-
-* **Pierre** : Permettre, via WebSocket, la synchronisation des mains et des têtes sur le réseau. Si pas en WebSocket, utiliser Mirror ou Photon.
-* **Sébastien** : S’assurer avec Pierre de la propreté du code et des conventions de nommage dans le projet.
-* **Max & Marvin** : Assurer la communication entre les différentes parties du groupe et avec les artistes.
-* **Julien** : Étudier comment utiliser les textures de la caméra avec [OpenAI](https://platform.openai.com/docs/overview) et voir l’utilisation de LM Studio en LAN.
-* **Vincent** :
-  * Créer une physique de drone « suffisamment réaliste » pour pouvoir contacter LiftOff (ou un autre studio) en vue d’un stage.
-  * Utiliser le drone dans les mesures de l’étage prises par les artistes.
-  * Se renseigner sur ce qu’est un [Asset Bundle](https://docs.unity3d.com/Manual/AssetBundlesIntro.html), car cela permettrait de travailler sur les mods du jeu.
-* **Autres participants** :
-
-  * Pratiquer la création d’une boîte à outils XR : interactions tactiles, regard, proximité des mains, clavier, position des doigts...
-  * Lorsque possible, s’exercer à l’utilisation de XRTK pendant les cours.
-
-(N’hésitez pas à me proposer un challenge qui vous permettrait de vous préparer à l’atelier ou à un stage.)
 
 ---
 
