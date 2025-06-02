@@ -1,5 +1,5 @@
 
-# Meta SDK
+# Jeudi: Meta SDK
 
 ## Matin – C’est quoi le Meta Blocks SDK ?
 
@@ -20,11 +20,12 @@ Le cours sera ajusté en fonction de ce que vous avez déjà vu avec Arnaud sur 
 
 **"Isoler pour mieux régner."**  
 Voici une liste de propositions pour créer une boîte à outils qui n’utilise que des **transforms** et des **meshes**.  
-**Pas besoin d’OpenXR ni de Meta SDK pour cet exercice.**  
+**Pas besoin d’OpenXR ni de Meta SDK pour cet exercice.**    
 
 ### Objectif :
 
 Créer entre **7 et 20 boîtes à outils** séparées, puis les rassembler dans un **Charleroi Toolkit**, votre boîte à outils de groupe.
+Voir: https://github.com/EloiStree/HelloUnityPackage/wiki  
 
 Dans la liste suivante, choisissez une idée selon votre niveau. Chaque élève prend un sujet différent.
 
@@ -41,6 +42,46 @@ Créer un **curseur contextuel** pour les meshes de la pièce :
   - [ ]  des **ustensiles** sur les tables
 
 
+Voici une version corrigée et améliorée de ton texte en gardant le ton informel et pédagogique :
+
+---
+
+###  Vendredi
+
+Pour placer des objets dans un espace 3D, il faut savoir **trianguler**.
+Mon objectif est de vous transmettre ce savoir que j’ai mis plusieurs semaines à explorer,
+afin que vous puissiez l’utiliser ensuite en VR et en AR, avec l’aide des caméras.
+
+---
+
+###  Mardi
+
+Je vais passer le week-end à rattraper mon retard sur le **Camera API**.
+Je vous proposerai donc un cours sur ce que j’aurai appris durant ces trois jours.
+Nous en profiterons pour voir — ou revoir — ce qu’est une **Texture2D** dans Unity3D.
+
+---
+
+###  Mercredi
+
+Vous pouvez travailler sur l’image captée par la caméra du casque,
+soit avec **OpenCV**, soit avec **Sentry**.
+Mais il serait préférable d’exécuter ce traitement sur un serveur local ou en ligne.
+
+Explorons ensemble comment **exporter l’image depuis le Camera API du Quest**
+vers un **serveur WebSocket ou FTP**, pour la traiter avec des bibliothèques Python
+et des outils de type **LM Studio**.
+
+
+---------------
+
+https://github.com/alvr-org/ALVR
+
+
+
+
+
+
 
 
 ---
@@ -51,10 +92,8 @@ Créer un **curseur contextuel** pour les meshes de la pièce :
 * Tenir à jour un **profil LinkedIn** professionnel.
 * Définir **quatre mots** qui résument votre carrière dans les deux années à venir.
 * Approfondir votre connaissance de **C# un peu chaque jour** :
-
   * [Suivre ce tableau d'exercices](https://docs.google.com/spreadsheets/d/15BQ1OqLn9omeHH6yPuqSO0Ip6XeQ0CktMDebbJCkarU/edit?gid=111671064#gid=111671064)
 * Bonus :
-
   * [QwertyWar](https://www.qwertywar.com)
   * [Speed Typing Online](https://www.speedtypingonline.com/typing-test)
 
