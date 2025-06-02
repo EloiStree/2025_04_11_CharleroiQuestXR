@@ -3,14 +3,13 @@
 
 ## Matin – C’est quoi le Meta Blocks SDK ?
 
-Aujourd’hui, nous allons nous familiariser avec le Meta Blocks SDK.
-Le cours sera ajusté en fonction de ce que vous avez déjà vu avec Arnaud sur OpenXR.
+Aujourd’hui, nous allons nous familiariser avec le Meta Blocks SDK.  
+Le cours sera ajusté en fonction de ce que vous avez déjà vu avec Arnaud sur OpenXR.  
 
 ### Étapes :
 
 * Installer **Meta Blocks**
 * Ajouter les blocs suivants :
-
   * Le bloc pour le **passthrough**
   * Le bloc pour les **mains**
   * Le bloc pour les **manettes**
@@ -19,9 +18,9 @@ Le cours sera ajusté en fonction de ce que vous avez déjà vu avec Arnaud sur 
 
 ## Midi – Créons notre ChTK (Charleroi Toolkit)
 
-**"Isoler pour mieux régner."**
-Voici une liste de propositions pour créer une boîte à outils qui n’utilise que des **transforms** et des **meshes**.
-**Pas besoin d’OpenXR ni de Meta SDK pour cet exercice.**
+**"Isoler pour mieux régner."**  
+Voici une liste de propositions pour créer une boîte à outils qui n’utilise que des **transforms** et des **meshes**.  
+**Pas besoin d’OpenXR ni de Meta SDK pour cet exercice.**  
 
 ### Objectif :
 
