@@ -5,6 +5,7 @@
 
 Aujourd’hui, nous allons nous familiariser avec le Meta Blocks SDK.  
 Le cours sera ajusté en fonction de ce que vous avez déjà vu avec Arnaud sur OpenXR.  
+Tutorial : https://youtu.be/X9bGkqK8zbw
 
 ### Étapes :
 
