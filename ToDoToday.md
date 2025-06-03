@@ -131,6 +131,12 @@ https://youtu.be/bYWZ_lQKzb8
 
 
 
+Make your toolboxes but dont make it too big. Split it.
+```
+  Eloi.E_DrawingUtility.DrawLines(dt, pointsLineToGround, middle, flatMiddle);
+  Eloi.E_DrawingUtility.DrawLines(dt, pointsLineToGround, end, flatEnd);
+```
+
 ------------
 
 [![image](https://github.com/user-attachments/assets/6e25d9d5-096a-48cf-8234-6adbe5cae58a)](https://img-9gag-fun.9cache.com/photo/apRAYP8_460svav1.mp4)
