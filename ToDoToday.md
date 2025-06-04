@@ -1,4 +1,103 @@
 
+Ce cours est chiant et difficile. Si vous n'avez pas mal à la tête vendredi soir, vous ne l'avez pas pratiqué. Mais il est une garantie d'emploi pour l'année 2025/2026.
+
+**Objectif** : Recalibrer un espace virtuel sur un espace réel en utilisant la caméra du Quest 3 ! Si vous savez faire ça, vous avez un pied dans l'industrie.
+
+# Relocalisation
+
+Mon professeur de mathématiques m'avait enseigné une idée que j'utilise depuis mes 10 ans dans le jeu. C'est plus facile de faire des maths dans un espace choisi.
+
+Je vais donc vous apprendre à relocaliser un espace en zéro zéro : [2024_10_19_RelocationRotation](https://github.com/EloiStree/2024_10_19_RelocationRotation).
+
+L'exercice est simple : la main droite du joueur est-elle à gauche et au-dessus de sa tête en VR ?
+
+Autres exemples :
+- La main du joueur est-elle à plat au-dessus d'une surface ?
+- Les deux manettes sont-elles en position d'inversion ?
+- Le joueur est-il en train de montrer un gros poisson ?
+- Le joueur regarde-t-il en l'air ?
+- Le joueur regarde-t-il dans la direction d'un monstre ?
+- Le joueur a-t-il les mains en l'air ?
+- Le joueur a-t-il les mains sur la table ?
+- Le joueur est-il en [position de guillotine](https://youtu.be/N8zkbl6mKXE?t=4) ?
+
+
+
+
+
+
+
+==========================
+
+========================
+
+# Triangulation
+
+Mon exemple le plus simple : essayer de voir si la main d'un joueur est à gauche, à droite ou au-dessus de la tête du joueur.
+
+Je dois voir avec vous :
+- [ ] Euler vs Quaternion
+  - [ ] Pitch, Yaw, Roll
+- [ ] Produit vectoriel (Cross Product)
+- [ ] Quaternion * Vector.Forward
+- [ ] Qa * Qb n'est pas égal à Qb * Qa
+- [ ] Aplatir une donnée sur un plan 2D relocalisé
+- [ ] DrawLine
+- [ ] Raycast
+  - [ ] Détecter un plafond
+  - [ ] Détecter un mur
+  - [ ] Détecter une table
+  - [ ] Détecter un sol
+- [ ] Angle et Distance
+  - [ ] Le doigt touche-t-il ?
+  - [ ] Montre-t-il un gros poisson ?
+- [ ] Relocalisation
+  - [ ] Un objet est-il à droite d'un autre ?
+  - [ ] Les mains du joueur sont-elles en l'air ?
+  - [ ] Les mains du joueur sont-elles devant ?
+  - [ ] Un joueur est-il en train de ramper ?
+
+
+
+
+
+
+
+
+--------------
+
+Pour le fun, regardons a ce que j ai utiliser pour replacer des objets.
+https://github.com/EloiStree?tab=repositories&q=2024_10_17_ThreePoints&type=&language=&sort=
+
+https://github.com/EloiStree/2024_10_17_ThreePointsTag
+https://github.com/EloiStree/2024_10_17_ThreePointsTag/blob/main/Runtime/ThreePointsMono_Transform3.cs
+
+- GetCrossProductAtMiddle
+- GetCentroid
+- GetClosestPoint
+- GetFarestPoint
+
+
+   public interface I_ThreePointsGet
+   {
+       public void GetPoints(out Vector3[] arrayOf3);
+       public void GetPoint(ThreePointCorner corner, out Vector3 point);
+       public void GetThreePoints(out Vector3 start, out Vector3 middle, out Vector3 end);
+   }
+  
+    public enum ThreePointCorner { Start, Middle, End }
+
+
+
+
+
+
+
+
+-------------------------------------
+
+-------------------------------------
+
 # Jeudi: Meta SDK
 
 ## Matin – C’est quoi le Meta Blocks SDK ?
@@ -16,6 +115,10 @@ Installer Meta XR : https://youtu.be/X9bGkqK8zbw
   * Le bloc pour les **manettes**
   * Le bloc pour les **espaces scannés**
   * Le bloc pour le **mesh 3D**
+
+## 
+ 
+
 
 ## Midi – Créons notre ChTK (Charleroi Toolkit)
 
@@ -42,8 +145,6 @@ Créer un **curseur contextuel** pour les meshes de la pièce :
   - [ ]  des **meubles** sur le sol
   - [ ]  des **ustensiles** sur les tables
 
-
-Voici une version corrigée et améliorée de ton texte en gardant le ton informel et pédagogique :
 
 ---
 
@@ -77,10 +178,6 @@ et des outils de type **LM Studio**.
 ---------------
 
 https://github.com/alvr-org/ALVR
-
-
-
-
 
 
 
@@ -125,9 +222,8 @@ https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/176
 
 ---------------
 [![image](https://github.com/user-attachments/assets/bf1592af-738e-43a7-abce-24e7fd723ed9)](https://youtu.be/bYWZ_lQKzb8)
-https://youtu.be/bYWZ_lQKzb8
-[![image](https://github.com/user-attachments/assets/8d657fd4-e1d1-4057-a685-a955f492668c)](https://www.linkedin.com/posts/christoph-spinger-280621190_ballee-gameon-metaquest3-ugcPost-7335641936856281088-Adyq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)
-
+https://youtu.be/bYWZ_lQKzb8  
+[![image](https://github.com/user-attachments/assets/8d657fd4-e1d1-4057-a685-a955f492668c)](https://www.linkedin.com/posts/christoph-spinger-280621190_ballee-gameon-metaquest3-ugcPost-7335641936856281088-Adyq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)  
 
 
 
