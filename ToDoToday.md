@@ -1,3 +1,9 @@
+- [ ] https://github.com/EloiStree/2025_06_05_TwoPointsQuadLoader
+- [ ] https://github.com/EloiStree/2020_06_06_GizmoTools
+- [ ] https://github.com/EloiStree/2025_06_05_DebugDrawUtility
+
+--------------------
+
 
 Ce cours est chiant et difficile. Si vous n'avez pas mal à la tête vendredi soir, vous ne l'avez pas pratiqué. Mais il est une garantie d'emploi pour l'année 2025/2026.
 
