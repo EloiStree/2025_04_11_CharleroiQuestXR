@@ -33,7 +33,7 @@ Autres exemples :
   - Les pouces et les indexes forment ils une un cube
   
 
-Exercic d'hier :
+Exercice d'hier :
 - [ ] https://youtu.be/1lBkZXi4XUQ
 
 Exercice d'aujourd'hui:
