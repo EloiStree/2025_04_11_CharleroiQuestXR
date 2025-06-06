@@ -36,7 +36,7 @@ Exercice d'aujourd'hui:
 - [ ] Pratiquer et comprendre l exercice d hier
   - [ ] Sauver les projets Git
   - [ ] Charger une feuille A4 avec un asset de SketchFab
-  - [ ] Charger un niveau sur une table avec un feuille A4
+  - [ ] Charger un niveau sur une table
   - [ ] Challenge:
     - [ ] Charger un niveau dans la salle commune
     - [ ] Charger un niveau sur l'ecran
