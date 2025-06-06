@@ -31,7 +31,11 @@ Autres exemples :
   - L index et le pouce de la main forme, ils un trianble
   - Les pouces et les indexes forment ils une ligne
   - Les pouces et les indexes forment ils une un cube
- 
+  
+
+Exercic d'hier :
+- [ ] https://youtu.be/1lBkZXi4XUQ
+
 Exercice d'aujourd'hui:
 - [ ] Pratiquer et comprendre l exercice d hier
   - [ ] Sauver les projets Git
