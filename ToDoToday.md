@@ -25,8 +25,12 @@ Autres exemples :
 - Le joueur regarde-t-il dans la direction d'un monstre ?
 - Le joueur a-t-il les mains en l'air ?
 - Le joueur a-t-il les mains sur la table ?
+- Les points du cube sont ils dans la vue de la camera ?
 - Le joueur est-il en [position de guillotine](https://youtu.be/N8zkbl6mKXE?t=4) ?
-
+- Signe de mains
+  - L index et le pouce de la main forme, ils un trianble
+  - Les pouces et les indexes forment ils une ligne
+  - Les pouces et les indexes forment ils une un cube 
 
 
 
