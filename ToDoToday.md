@@ -33,7 +33,16 @@ Autres exemples :
   - Les pouces et les indexes forment ils une un cube 
 
 
-
+- [ ] Pratiquer et comprendre l exercice d hier
+  - [ ] Sauver les projets Git
+  - [ ] Charger une feuille A4 avec un asset de SketchFab
+  - [ ] Charger un niveau sur une table avec un feuille A4
+  - [ ] Challenge:
+    - [ ] Charger un niveau dans la salle commune
+    - [ ] Charger un niveau sur l'ecran
+- [ ] Pratiquer la relocalisation
+  - [ ] Local To World: Creeons un canon.
+  - [ ] World To Local: Creons un joystick avec nos doights
 
 
 
