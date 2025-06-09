@@ -56,9 +56,6 @@ Must watch avant de commencer, Euler et gimbal lock:
 https://youtu.be/zc8b2Jo7mno?t=81    
 
 
-Voici la liste corrigée avec l'orthographe et la grammaire tout en conservant le format Markdown :
-
-```markdown
 Liste des sujets utilisés dans les vidéos :
 
 - Vector3.up et Vector3.Cross en image [https://youtu.be/jXE9EZmj6RQ?t=57](https://youtu.be/jXE9EZmj6RQ?t=57)
@@ -129,7 +126,7 @@ Liste des sujets utilisés dans les vidéos :
   - V3 World = (Q rotation * V3 localPoint) + V3 destination [https://youtu.be/XxiZXgC7NDk?t=1808](https://youtu.be/XxiZXgC7NDk?t=1808)
   - Q tourelle = Q tank * Q.Euler(rotation locale) [https://youtu.be/XxiZXgC7NDk?t=2598](https://youtu.be/XxiZXgC7NDk?t=2598)
 - Bouger la tourelle sur le temps avec un pourcentage [https://youtu.be/XxiZXgC7NDk?t=3530](https://youtu.be/XxiZXgC7NDk?t=3530)
-```
+
 
 ==================
 
