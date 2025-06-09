@@ -1,6 +1,64 @@
-- [ ] https://github.com/EloiStree/2025_06_05_TwoPointsQuadLoader
+
+# To Do Today
+
+Comme dit vendredi, mon but est de vous faire pratiquer durant une journée les rotations et translations avec des Vector3, Euler et Quaternion.
+
+Vous trouverez plus bas une liste de sujets à éliminer.
+Vous ne les ferez pas tous en une journée.
+
+Vous aurez probablement besoin de ceci pour vous en sortir :
 - [ ] https://github.com/EloiStree/2020_06_06_GizmoTools
 - [ ] https://github.com/EloiStree/2025_06_05_DebugDrawUtility
+- [ ] https://github.com/EloiStree/2024_10_19_RelocationRotation
+
+Mercredi, c'est aussi une journée de pratique mais sur le positionnement d'objets dans le bâtiment avec le code de vendredi : https://github.com/EloiStree/2025_06_05_TwoPointsQuadLoader
+
+--------------------
+
+Dans le but de vous donner des exemples de rotation, j'ai passé le week-end à faire une vidéo sur comment créer le grab de Open Brush appliqué à un mouvement de drone.
+J'y ai ajouté un canon pour refaire en vidéo l'exercice de vendredi.
+![image](https://github.com/user-attachments/assets/dfa63691-e155-4eb5-af22-ea93c1388684)
+
+Un total de 8H... Beaucoup trop de matière pour une journée.
+Deux vidéos faciles à pratiquer si vous ne faites pas l'exercice au complet :
+- Calculer le roll avec des cross product pour faire un volant de voiture
+  - https://www.youtube.com/watch?v=ZLGrYFqCeGs
+- Faire un canon de tank
+  - https://youtu.be/XxiZXgC7NDk?t=3811
+
+Le step by step total pour pratiquer les rotations, `Pinch Joystick` :
+- Introduction à l'exercice
+  - https://youtu.be/jXE9EZmj6RQ?t=7
+- Calcul du roll à un volant de voiture
+  - https://www.youtube.com/watch?v=ZLGrYFqCeGs
+- D'une direction locale à un drone qui bouge en pourcentage
+  - https://youtu.be/8j7TjPTHQE8?t=4808
+- Sauver une position start, stay et exit de deux points
+  - https://youtu.be/QjNqzI2x7CA?t=286
+- Utiliser le start et exit pour calculer le yaw, roll et autre info
+  - https://youtu.be/KYeEUsV14WY?t=5047
+- Lier la position de la main, le grab, de l'index et du pouce à notre code
+  - https://youtu.be/yGx6T766WZQ?t=3
+- Utiliser le Pinch Joystick pour bouger notre drone
+  - https://youtu.be/AErE_1inpZI?t=2
+- Ajoutons un canon pour s'entraîner à relocaliser de local à world
+  - https://youtu.be/XxiZXgC7NDk?t=3770
+
+Vidéo de Quad Loader qui utilise quelques rotations et cross product, A4 :
+https://github.com/EloiStree/2025_06_05_TwoPointsQuadLoader
+- https://www.youtube.com/watch?v=XPQT77vDt4w Introduction à l'exercice
+- https://www.youtube.com/watch?v=bXiPIEok_10&t=5s Réflexion sur le sujet
+- https://www.youtube.com/watch?v=1lBkZXi4XUQ De l'idée au code
+
+
+==================
+
+======================
+
+# Brouillons de l autre jour
+
+==================
+
 
 --------------------
 
