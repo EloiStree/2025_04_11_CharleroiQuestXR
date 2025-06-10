@@ -24,6 +24,12 @@ Exercice pour senior :
 - Trouver une manière de relocaliser votre niveau dans la pièce par vous-même 😅😜😁
 
 
+AVec des triangles:
+[![image](https://github.com/user-attachments/assets/cecac57d-1350-4e7d-8788-bb67a2498273)](https://www.youtube.com/watch?v=0k1kqoNi4UM)  
+- https://github.com/EloiStree?tab=repositories&q=threepoints&type=&language=&sort=  
+- https://www.youtube.com/watch?v=0k1kqoNi4UM
+
+
 -------------------------------
 
 
