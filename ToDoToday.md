@@ -1,6 +1,34 @@
 
 # To Do Today
 
+Dans l'atelier, et dans votre futur emploi XR, vous allez devoir charger des murs invisibles pour le bâtiment et/ou charger des exercices localisés. Je ne serai plus là demain. Trouvez avec notre niveau un moyen de charger du contenu dans le bâtiment Technocité.
+
+Permet de charger un prefab depuis une distance ou de relocaliser un niveau :
+- [ ] [2025_06_05_TwoPointsQuadLoader](https://github.com/EloiStree/2025_06_05_TwoPointsQuadLoader.git)
+
+Mesure faite avec Open Brush du bâtiment en groupe :
+- [ ] [2025_05_20_MeasureOfTechnociteWithQuest3](https://github.com/EloiStree/2025_05_20_MeasureOfTechnociteWithQuest3.git)
+  - [ ] Utiliser ROOT_CHARLEROI_STREE_ELOI pour créer votre niveau.
+
+Utile :
+- [ ] [2025_06_05_DebugDrawUtility](https://github.com/EloiStree/2025_06_05_DebugDrawUtility)
+- [ ] [2024_10_19_RelocationRotation](https://github.com/EloiStree/2024_10_19_RelocationRotation)
+
+Exercice pour junior :
+- Invoquer un prefab horizontal et vertical.
+
+Exercice pour médior :
+- Relocaliser un niveau dans la pièce avec des "tags de distance".
+
+Exercice pour senior :
+- Trouver une manière de relocaliser votre niveau dans la pièce par vous-même 😅😜😁
+
+
+-------------------------------
+
+
+# To Do Today 2025 06 11
+
 Comme dit vendredi, mon but est de vous faire pratiquer durant une journée les rotations et translations avec des Vector3, Euler et Quaternion.
 
 Vous trouverez plus bas une liste de sujets à éliminer.
