@@ -134,6 +134,8 @@ Note: https://github.com/EloiStree/2025_06_07_PinchJoysticks.git
 
 Autre:
 - https://github.com/EloiStree/HelloUnityKeywordForJunior/blob/main/Guide/Relocation.md
+- Une perle https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/240
+- Attribute de Unity https://github.com/EloiStree/HelloSharpForUnity3D/issues/429
 ==================
 
 ======================
