@@ -128,6 +128,10 @@ Liste des sujets utilisés dans les vidéos :
 - Bouger la tourelle sur le temps avec un pourcentage [https://youtu.be/XxiZXgC7NDk?t=3530](https://youtu.be/XxiZXgC7NDk?t=3530)
 
 
+Note: https://github.com/EloiStree/2025_06_07_PinchJoysticks.git
+- ExPinchMono_LocalComputeForCartesianTwoPoints
+- ExPinchMono_RelayBasicFromLocalComputeCTP
+
 ==================
 
 ======================
