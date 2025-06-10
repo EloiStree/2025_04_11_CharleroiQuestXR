@@ -1,7 +1,7 @@
 
 # To Do Today
 
-Dans l'atelier, et dans votre futur emploi XR, vous allez devoir charger des murs invisibles pour le bâtiment et/ou charger des exercices localisés. Je ne serai plus là demain. Trouvez avec notre niveau un moyen de charger du contenu dans le bâtiment Technocité.
+Dans l'atelier, et dans votre futur emploi XR, vous allez devoir charger des murs invisibles pour le bâtiment et/ou charger des exercices localisés. Je ne serai plus là demain. Trouvez avec votre niveau un moyen de charger du contenu dans le bâtiment Technocité.
 
 Permet de charger un prefab depuis une distance ou de relocaliser un niveau :
 - [ ] [2025_06_05_TwoPointsQuadLoader](https://github.com/EloiStree/2025_06_05_TwoPointsQuadLoader.git)
