@@ -132,6 +132,8 @@ Note: https://github.com/EloiStree/2025_06_07_PinchJoysticks.git
 - ExPinchMono_LocalComputeForCartesianTwoPoints
 - ExPinchMono_RelayBasicFromLocalComputeCTP
 
+Autre:
+- https://github.com/EloiStree/HelloUnityKeywordForJunior/blob/main/Guide/Relocation.md
 ==================
 
 ======================
